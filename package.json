@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LokeswarReddyNemmipati/React_Learning/issues"
   },
-  "homepage": "https://github.com/LokeswarReddyNemmipati/React_Learning#readme"
+  "homepage": "https://github.com/LokeswarReddyNemmipati/React_Learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
