@@ -1,0 +1,19 @@
+{
+  "name": "namaste_react_1",
+  "version": "1.0.0",
+  "description": "First React APP",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LokeswarReddyNemmipati/React_Learning.git"
+  },
+  "author": "Lokeswara Nemmipati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LokeswarReddyNemmipati/React_Learning/issues"
+  },
+  "homepage": "https://github.com/LokeswarReddyNemmipati/React_Learning#readme"
+}
